@@ -1,0 +1,19 @@
+﻿{
+  "name": "strong-spawn-npm",
+  "version": "1.0.0",
+  "description": "Reliably spawn npm™ on any platform",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strongloop/strong-spawn-npm.git"
+  },
+  "author": "Bert Belder <bertbelder@gmail.com>",
+  "license": {
+    "name": "Dual MIT/StrongLoop",
+    "url": "https://github.com/strongloop/loopback/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/strongloop/strong-spawn-npm/issues"
+  },
+  "homepage": "https://github.com/strongloop/strong-spawn-npm"
+}
