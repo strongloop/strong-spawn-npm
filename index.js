@@ -1,3 +1,7 @@
+// Copyright IBM Corp. 2015. All Rights Reserved.
+// Node module: strong-spawn-npm
+// This file is licensed under the MIT License.
+// License text available at https://opensource.org/licenses/MIT
 
 var spawn = require('child_process').spawn;
 var extend = require('util')._extend;
