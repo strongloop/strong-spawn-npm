@@ -1,6 +1,6 @@
 {
   "name": "strong-spawn-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reliably spawn npm on any platform",
   "main": "index.js",
   "repository": {
